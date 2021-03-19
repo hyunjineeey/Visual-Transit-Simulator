@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.webserver.GetRoutesCommandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-19T01:39:37" hostname="Hyunjins-MacBook-Pro.local" time="0.086">
+  <properties/>
+  <testcase name="testExecute()" classname="edu.umn.cs.csci3081w.project.webserver.GetRoutesCommandTest" time="0.086"/>
+  <system-out><![CDATA[class loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+44.97358
+44.975392
+44.975837
+44.980753
+44.983375
+44.98454
+44.98463
+ Campus Connector  West Bound
+8
+44.98463
+44.984482
+44.983703
+44.980663
+44.976397
+44.978058
+44.978366
+44.974549
+ Campus Connector  East Bound Express
+2
+44.980753
+44.98463
+ Campus Connector  West Bound Express
+2
+44.98463
+44.976397
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.BusTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-03-19T01:39:38" hostname="Hyunjins-MacBook-Pro.local" time="0.038">
+  <properties/>
+  <testcase name="testMoveNoPassengersOnBus()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testMovePassengersOnBus()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testIsTripCompleteReturnTrue()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.002"/>
+  <testcase name="testRouteUpdateBusDataNoMove()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.002"/>
+  <testcase name="testIsTripCompleteWhenBusJustCreated()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testBusReportNoPassengers()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testMovePassengersOnBusElse()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.0"/>
+  <testcase name="testGetNumPassengersOnePass()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.0"/>
+  <testcase name="testConstructorNormal()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testloadPassengerFullBus()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <testcase name="testMovePassengersOnBusElse2()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.0"/>
+  <testcase name="testMovePassengersOnBusElse4()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.006"/>
+  <testcase name="testLoadPassengerEmptyBus()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.002"/>
+  <testcase name="testOutgoingRouteUpdate()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.002"/>
+  <testcase name="testBusReportNullStream()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.003"/>
+  <testcase name="testBusReportWithPassengers()" classname="edu.umn.cs.csci3081w.project.model.BusTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

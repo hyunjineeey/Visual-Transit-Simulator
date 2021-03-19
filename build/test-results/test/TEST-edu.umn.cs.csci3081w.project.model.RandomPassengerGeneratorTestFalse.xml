@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.RandomPassengerGeneratorTestFalse" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-19T01:39:38" hostname="Hyunjins-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testGeneratePassengersTestWithProbsAndStopsTrue()" classname="edu.umn.cs.csci3081w.project.model.RandomPassengerGeneratorTestFalse" time="0.0"/>
+  <testcase name="testGeneratePassengersTestWithProbsAndStops()" classname="edu.umn.cs.csci3081w.project.model.RandomPassengerGeneratorTestFalse" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

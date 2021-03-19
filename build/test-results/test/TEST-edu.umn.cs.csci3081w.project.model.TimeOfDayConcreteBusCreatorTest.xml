@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-03-19T01:39:38" hostname="Hyunjins-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="testSetStrategy()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.0"/>
+  <testcase name="testConstructorWithParameters()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.001"/>
+  <testcase name="testConstructorWithParametersTime17()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.001"/>
+  <testcase name="testConstructorWithParametersTime30()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.0"/>
+  <testcase name="testConstructorWithParametersTime6()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.003"/>
+  <testcase name="testConstructorWithParametersTime9()" classname="edu.umn.cs.csci3081w.project.model.TimeOfDayConcreteBusCreatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

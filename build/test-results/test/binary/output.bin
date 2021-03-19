@@ -1,0 +1,1046 @@
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+$Time between busses for route  0: 1
+$Time between busses for route  1: 2
+$Time between busses for route  2: 3
+,Number of time steps for simulation is: 123
+Starting simulation
+####Route Info Start####
+$Name:  Campus Connector  East Bound
+Num stops: 7
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 11
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 12
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 13
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 14
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 15
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 16
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 17
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+$Name:  Campus Connector  West Bound
+Num stops: 8
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 18
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 19
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 20
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 21
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 22
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 23
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 24
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 25
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+,Name:  Campus Connector  East Bound Express
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 26
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 27
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+,Name:  Campus Connector  West Bound Express
+Num stops: 2
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 28
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 29
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+####Route Info Start####
+Name: route1
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: route2
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+1~~~~The simulation time is nowat time step 1~~~~
+####Bus Info Start####
+Name: TestBus
+Speed: 1.0
+Distance to next stop: 0.0
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Bus Info End####
+####Bus Info Start####
+Name: TestBus
+Speed: 1.0
+Distance to next stop: 0.0
+****Passengers Info Start****
+Num of passengers: 0
+****Passengers Info End****
+####Bus Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397
+1~~~~The simulation time is nowat time step 1~~~~
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Coach
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+####Route Info Start####
+Name: TestRoute
+Num stops: 3
+****Stops Info Start****
+++++Next Stop Info Start++++
+####Stop Info Start####
+ID: 0
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: Goldy
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+++++Next Stop Info End++++
+####Stop Info Start####
+ID: 1
+****Passengers Info Start****
+Num passengers waiting: 1
+####Passenger Info Start####
+Name: President
+Destination: 2
+Total wait: 1
+Wait at stop: 1
+Time on bus: 0
+####Passenger Info End####
+****Passengers Info End****
+####Stop Info End####
+####Stop Info Start####
+ID: 2
+****Passengers Info Start****
+Num passengers waiting: 0
+****Passengers Info End****
+####Stop Info End####
+****Stops Info End****
+####Route Info End####
+dclass loaded class edu.umn.cs.csci3081w.project.webserver.MyWebServerSession$MockitoMock$1382671803
+session opened
+ Campus Connector  East Bound
+7
+	44.97358
+
+44.975392
+
+44.975837
+
+44.980753
+
+44.983375
+	44.98454
+	44.98463
+ Campus Connector  West Bound
+8
+	44.98463
+
+44.984482
+
+44.983703
+
+44.980663
+
+44.976397
+
+44.978058
+
+44.978366
+
+44.974549
+& Campus Connector  East Bound Express
+2
+
+44.980753
+	44.98463
+& Campus Connector  West Bound Express
+2
+	44.98463
+
+44.976397

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.umn.cs.csci3081w.project.model.RouteTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2021-03-19T01:39:38" hostname="Hyunjins-MacBook-Pro.local" time="0.018">
+  <properties/>
+  <testcase name="testNextStopAtBeginning()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testGetNextStopDistanceAtBeginning()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testRouteNotAtEnd()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testRouteReportWithStops()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.002"/>
+  <testcase name="testUpdateRoute()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testGeneratePassengers()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testGetTotalRouteDistance()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testNextStopAtBeginningElse()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testPreviousStopAtBeginning()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <testcase name="testPreviousStopAtBeginningElse()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testRouteAtEnd()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testShallowCopy()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.0"/>
+  <testcase name="testGetRouteDataNotUpdated()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.002"/>
+  <testcase name="testRouteConstructorNormal()" classname="edu.umn.cs.csci3081w.project.model.RouteTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
